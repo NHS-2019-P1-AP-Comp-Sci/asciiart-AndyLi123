@@ -15,13 +15,119 @@
  */
 
 // YOU CODE HERE :) 
-
+/*            
+ *        
+ *        
+ *     
+ *    
+ */   
 public class ASCIIArt {
-	public static void main (String [] args) {
-		System.out.println("THIS IS MY ASCII ART!!!!");
-		System.out.println("THIS IS MY ASCII ART!!!!");
-		System.out.println("THIS IS MY ASCII ART!!!!");
-		System.out.println("THIS IS MY ASCII ART!!!!");
-		System.out.println("THIS IS MY ASCII ART!!!!");
+	public static void BodyPart(){
+		System.out.println("                ||___________||___________||");
+		System.out.println("                |\\           /\\           /|");
+		System.out.println("                |\\\\         //\\\\         //|");
+		System.out.println("                ||\\\\       //||\\\\       //||");
+		System.out.println("                || \\\\     // || \\\\     // ||");
+		System.out.println("                ||  \\\\   //  ||  \\\\   //  ||");
+		System.out.println("                ||   \\\\_//   ||   \\\\_//   ||");
+		System.out.println("              //||    \\ /    ||    \\ /    ||\\\\");
+		System.out.println("             // ||    /_\\    ||    /_\\    || \\\\");
+		System.out.println("            //  ||   // \\\\   ||   // \\\\   ||  \\\\");
+		System.out.println("            \\\\  ||  //   \\\\  ||  //   \\\\  ||  //");
+		System.out.println("             || || //     \\\\ || //     \\\\ || ||");
+		System.out.println("             || ||//       \\\\||//       \\\\|| ||");
+		System.out.println("             || |//         \\\\//         \\\\| ||");
+		System.out.println("             || |/___________\\/___________\\| ||");
+		System.out.println("             || ||           ||           || ||");
+		System.out.println("            _||_||           ||           ||_||_");
 	}
+	public static void SecondBodyPart() {
+		
+		System.out.println("                 //                      \\\\");
+		System.out.println("                //                        \\\\");
+		System.out.println("                ||___________||___________||");
+		System.out.println("                |\\           /\\           /|");
+		System.out.println("                |\\\\         //\\\\         //|");
+		System.out.println("                ||\\\\       //||\\\\       //||");
+		System.out.println("                || \\\\     // || \\\\     // ||");
+		System.out.println("                ||  \\\\   //  ||  \\\\   //  ||");
+		System.out.println("                ||   \\\\_//   ||   \\\\_//   ||");
+		System.out.println("                ||    \\ /    ||    \\ /    ||");
+		System.out.println("                ||    /_\\    ||    /_\\    ||");
+		System.out.println("                ||   // \\\\   ||   // \\\\   || ");
+		System.out.println("                ||  //   \\\\  ||  //   \\\\  ||");
+		System.out.println("                || //     \\\\ || //     \\\\ ||");
+		System.out.println("                ||//       \\\\||//       \\\\||");
+		System.out.println("                |//         \\\\//         \\\\|");
+		System.out.println("                |/___________\\/___________\\|");
+		System.out.println("                ||           ||           ||");
+	}
+	public static void ThirdBodyPart() {
+		System.out.println("                  |\\                    /|");
+		System.out.println("                  |\\\\                  //|");
+		System.out.println("                  ||\\\\                //||");
+		System.out.println("                  || \\\\              // ||");
+		System.out.println("                  ||  \\\\            //  ||");
+		System.out.println("                  ||   \\\\          //   ||");
+		System.out.println("                  ||    \\\\        //    ||");
+		System.out.println("                  ||     \\\\      //     ||");
+		System.out.println("                  ||      \\\\    //      ||");
+		System.out.println("                  ||       \\\\__//       ||");
+		System.out.println("                  ||        \\  /        ||");
+		System.out.println("                  ||        /__\\        ||");
+		System.out.println("                  ||       //  \\\\       ||");
+		System.out.println("                  ||      //    \\\\      ||");
+		System.out.println("                  ||     //      \\\\     ||");
+		System.out.println("                  ||    //        \\\\    ||");
+		System.out.println("                  ||   //          \\\\   ||");
+		System.out.println("                  ||  //            \\\\  ||");
+		System.out.println("                  || //              \\\\ ||");
+		System.out.println("                  ||//                \\\\||");
+		System.out.println("                  |//                  \\\\|");
+		System.out.println("                  |/____________________\\|");
+		System.out.println("                  ||                    ||");
+	}
+	public static void ForthBodyPart() {
+		System.out.println("                             /\\");
+		System.out.println("                             ||");
+		System.out.println("                             ||                  ");
+		System.out.println("                             || ________________  ");
+		System.out.println("                             ||/                \\  ");
+		System.out.println("                             ||   Hello World!  ||");
+		System.out.println("                             ||\\________________/");
+		System.out.println("                             ||                  ");
+		System.out.println("                             ||");
+		System.out.println("                             ||");
+		System.out.println("                             ||");
+		System.out.println("                             ||");
+		System.out.println("                             ||");
+		System.out.println("                            //\\\\");
+		System.out.println("                           //  \\\\");
+		System.out.println("                          //    \\\\");
+		System.out.println("                         //      \\\\");
+		System.out.println("                        //        \\\\");
+		System.out.println("                       //          \\\\");
+		System.out.println("                      //            \\\\ ");
+		System.out.println("                     //              \\\\");
+		System.out.println("                    //                \\\\");
+		System.out.println("                   //                  \\\\");
+		System.out.println("                  //____________________\\\\");
+	}
+	public static void main (String [] args) {
+		ForthBodyPart();
+		ThirdBodyPart();
+		SecondBodyPart();
+		BodyPart();
+		System.out.println("          //              //    \\\\              \\\\");
+		System.out.println("         //              //      \\\\              \\\\");
+		System.out.println("        //              //        \\\\              \\\\");
+		System.out.println("       //              //          \\\\              \\\\");
+		System.out.println("      //              //            \\\\              \\\\");
+		System.out.println("     //              //              \\\\              \\\\");
+		System.out.println("    //              //                \\\\              \\\\");
+		System.out.println("   //              //                  \\\\              \\\\");
+		System.out.println("  //              //                    \\\\              \\\\");
+	    System.out.println(" //              //                      \\\\              \\\\");
+		System.out.println("//______________//                        \\\\______________\\\\");
+} 
 }
